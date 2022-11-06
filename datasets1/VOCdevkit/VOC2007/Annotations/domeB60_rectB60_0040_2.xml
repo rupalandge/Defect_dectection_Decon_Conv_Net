@@ -1,0 +1,26 @@
+<annotation>
+  <folder>B1</folder>
+  <filename>domeB60_rectB60_0040_2</filename>
+  <path>C:\tensorflow1\workspace\IMAGE\B1\domeB60_rectB60_0040_2.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>459</xmin>
+      <ymin>394</ymin>
+      <xmax>546</xmax>
+      <ymax>437</ymax>
+    </bndbox>
+  </object>
+</annotation>
